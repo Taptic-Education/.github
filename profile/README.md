@@ -20,15 +20,24 @@ We are currently working on several exciting projects aimed at enhancing educati
 
 Our diverse team is passionate about education and technology:
 Veer Gosai – Founder & CEO
+
 Kirav Doolabh – Lead Developer
+
 Ona Khutoane – Head of Marketing
+
 Eshan Naidoo – Developer & Marketing
+
 Rahul Ganda – Developer & Marketing
+
 Dipika Ramjugernath – Head of Support
-Nihal Vallabh – Business Development: Acquisitions (SA Tutors)
-Matthew Fairhurst – Project Developer
-Joel Cedras – Web Developer
+
 Aydin January – Financial Manager (SA Tutors)
+
+Nihal Vallabh – Business Development: Acquisitions (SA Tutors)
+
+Matthew Fairhurst – Project Developer
+
+Joel Cedras – Web Developer
 
 ---
 
