@@ -19,36 +19,16 @@ We are currently working on several exciting projects aimed at enhancing educati
 ## 👥 Meet the Team
 
 Our diverse team is passionate about education and technology:
-
-- **Veer Gosai** – *Founder & CEO*  
-  :contentReference[oaicite:13]{index=13}:contentReference[oaicite:15]{index=15}
-
-- **Kirav Doolabh** – *Lead Developer*  
-  :contentReference[oaicite:17]{index=17}:contentReference[oaicite:19]{index=19}
-
-- **Ona Khutoane** – *Head of Marketing*  
-  :contentReference[oaicite:21]{index=21}:contentReference[oaicite:23]{index=23}
-
-- **Eshan Naidoo** – *Developer & Marketing*  
-  :contentReference[oaicite:25]{index=25}:contentReference[oaicite:27]{index=27}
-
-- **Rahul Ganda** – *Developer & Marketing*  
-  :contentReference[oaicite:29]{index=29}:contentReference[oaicite:31]{index=31}
-
-- **Dipika Ramjugernath** – *Head of Support*  
-  :contentReference[oaicite:33]{index=33}:contentReference[oaicite:35]{index=35}
-
-- **Nihal Vallabh** – *Business Development: Acquisitions (SA Tutors)*  
-  :contentReference[oaicite:37]{index=37}:contentReference[oaicite:39]{index=39}
-
-- **Matthew Fairhurst** – *Project Developer*  
-  :contentReference[oaicite:41]{index=41}:contentReference[oaicite:43]{index=43}
-
-- **Joel Cedras** – *Web Developer*  
-  :contentReference[oaicite:45]{index=45}:contentReference[oaicite:47]{index=47}
-
-- **Aydin January** – *Financial Manager (SA Tutors)*  
-  :contentReference[oaicite:49]{index=49}:contentReference[oaicite:51]{index=51}
+Veer Gosai – Founder & CEO
+Kirav Doolabh – Lead Developer
+Ona Khutoane – Head of Marketing
+Eshan Naidoo – Developer & Marketing
+Rahul Ganda – Developer & Marketing
+Dipika Ramjugernath – Head of Support
+Nihal Vallabh – Business Development: Acquisitions (SA Tutors)
+Matthew Fairhurst – Project Developer
+Joel Cedras – Web Developer
+Aydin January – Financial Manager (SA Tutors)
 
 ---
 
