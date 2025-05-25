@@ -19,25 +19,17 @@ We are currently working on several exciting projects aimed at enhancing educati
 ## 👥 Meet the Team
 
 Our diverse team is passionate about education and technology:
-Veer Gosai – Founder & CEO
+- **Veer Gosai** – Founder & CEO  
+- **Kirav Doolabh** – Lead Developer  
+- **Ona Khutoane** – Head of Marketing  
+- **Eshan Naidoo** – Developer & Marketing  
+- **Rahul Ganda** – Developer & Marketing  
+- **Dipika Ramjugernath** – Head of Support  
+- **Aydin January** – Financial Manager (SA Tutors)  
+- **Nihal Vallabh** – Business Development: Acquisitions (SA Tutors)  
+- **Matthew Fairhurst** – Project Developer  
+- **Joel Cedras** – Web Developer
 
-Kirav Doolabh – Lead Developer
-
-Ona Khutoane – Head of Marketing
-
-Eshan Naidoo – Developer & Marketing
-
-Rahul Ganda – Developer & Marketing
-
-Dipika Ramjugernath – Head of Support
-
-Aydin January – Financial Manager (SA Tutors)
-
-Nihal Vallabh – Business Development: Acquisitions (SA Tutors)
-
-Matthew Fairhurst – Project Developer
-
-Joel Cedras – Web Developer
 
 ---
 
@@ -56,8 +48,6 @@ We welcome collaboration and contributions from the community. If you're interes
 For more information, visit our [website](https://taptic.org) or connect with us through:
 
 - [LinkedIn](https://za.linkedin.com/company/taptic-pty-ltd)
-
-*Note: If you have official Twitter or Facebook accounts, please provide the links to include them here.*
 
 ---
 
