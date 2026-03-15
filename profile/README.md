@@ -6,22 +6,10 @@ At [Taptic](https://taptic.org), we are dedicated to transforming education by d
 
 ---
 
-## 🚀 Our Projects
-
-We are currently working on several exciting projects aimed at enhancing educational outcomes:
-
-- **SA Papers**: A comprehensive repository of past examination papers for South African students.
-- **Rwanda Papers**: Providing Rwandan students with access to over 2,000 past exam papers for REB P6, S3, and S6 final examinations.
-- **Zambia Papers**: A platform offering past examination papers to Zambian students.:contentReference[oaicite:11]{index=11}
-
----
-
 ## 🤝 Get Involved
 
 We welcome collaboration and contributions from the community. If you're interested in working with us or contributing to our projects:
 
-- Explore our repositories to see what we're working on.
-- Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
 - Reach out to us via [support@taptic.org](mailto:support@taptic.org) for any inquiries.
 
 ---
